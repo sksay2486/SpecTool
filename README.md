@@ -1,0 +1,2 @@
+# SpecTool
+Specification Make Tool
